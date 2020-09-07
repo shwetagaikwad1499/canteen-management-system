@@ -1,1 +1,1 @@
-canteen management
+Basic canteen management program.
